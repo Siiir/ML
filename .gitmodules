@@ -4,3 +4,6 @@
 [submodule "lang_reco"]
 	path = lang_reco
 	url = git@github.com:Siiir/rust-lang_reco.git
+[submodule "NN-1_layer"]
+	path = NN-1_layer
+	url = git@github.com:Siiir/rust-NN-1_layer.git
