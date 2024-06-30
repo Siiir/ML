@@ -1,5 +1,5 @@
 [submodule "iris_classifier"]
-	path = iris_classifier
+	path = knn
 	url = git@github.com:Siiir/iris_classifier.git
 [submodule "lang_reco"]
 	path = lang_reco
