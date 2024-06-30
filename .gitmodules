@@ -4,6 +4,3 @@
 [submodule "lang_reco"]
 	path = lang_reco
 	url = git@github.com:Siiir/rust-lang_reco.git
-[submodule "perceptron"]
-	path = perceptron
-	url = git@github.com:Siiir/perceptron
