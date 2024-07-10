@@ -1,6 +1,6 @@
 # Aggregation of my ML projects
 
-# Contests
+# Contents
 ## Algorithms
 
 ### [NN-1_layer](https://github.com/siiir/rust-NN-1_layer)
